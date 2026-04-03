@@ -1,0 +1,1 @@
+{\n  "name": "frontend",\n  "version": "1.0.0",\n  "dependencies": {\n    "react": ">=17.0.0",\n    "@tensorflow/tfjs": ">=3.0.0"\n  }\n}
